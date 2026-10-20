@@ -1,0 +1,6 @@
+/.remote-ssh/
+/.remote_known_hosts
+/__pycache__/
+/输入/
+/输出/
+*.bak
