@@ -2,6 +2,7 @@
   "host": "169.254.88.88",
   "port": 22,
   "user": "karas",
+  "expected_device_id": "AD30D19A-D876-5B68-9D90-8049DB3A6005",
   "remote_root": "/Volumes/Sea of Symbols/Qwen3-ASR-本地语音识别",
   "identity_file": ".remote-ssh/id_ed25519"
 }

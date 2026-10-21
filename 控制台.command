@@ -11,7 +11,7 @@ run_remote_client() {
     printf '\n找不到轻量远程客户端所需的 Python 3。\n' >&2
     return 1
   fi
-  python3 "$ROOT/remote_client.py" "$@"
+  python3 -u "$ROOT/remote_client.py" "$@"
 }
 
 pause_menu() {
